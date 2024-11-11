@@ -44,8 +44,6 @@ Welcome! This is a weather dashboard app built with Next.js and React that helps
 ***
 ## Getting Started
 
-
-
 ### Prerequisites
 To get started, ensure you have the following installed:
 
@@ -87,4 +85,10 @@ Follow these steps to set up and run the app:
 
 ***
 ## Improvements
+- Offline Mode: Implement caching to allow users to view previously loaded weather data even when offline.
+- Customizable Themes: Add light/dark mode options for a more personalized user experience.
+- Hourly Weather Forecast: Extend data to include hourly weather details, giving users more specific updates throughout the day.
+- Multi-language Support: Add localization for different languages to make the app accessible to a global audience.
+- Notifications for Weather Alerts: Enable notifications for severe weather events in saved cities to keep users informed in real time.
+- Unit Testing and E2E Testing: Add unit tests for components and end-to-end tests for key features to ensure app reliability and catch potential issues.
 
