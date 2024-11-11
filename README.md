@@ -4,7 +4,6 @@ Welcome! This is a weather dashboard app built with Next.js and React that helps
 
 ***
 ## **Demo**
-
 [![View Demo](https://img.shields.io/badge/View-Demo-blue)](https://www.youtube.com/watch?v=Ks_8CHJqJqo)
 
 ***
@@ -43,7 +42,6 @@ Welcome! This is a weather dashboard app built with Next.js and React that helps
 
 ***
 ## Getting Started
-
 ### Prerequisites
 To get started, ensure you have the following installed:
 
@@ -54,17 +52,14 @@ To get started, ensure you have the following installed:
 Follow these steps to set up and run the app:
 
 1. **Clone the repository**:
-
    ```bash
    git clone [repository URL]
 
 2. **Go to the project folder**:
-
    ```bash
    cd weather-dashboard
 
 3. **Install the necessary packages**:
-
    ```bash
    npm install
 
