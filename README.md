@@ -3,6 +3,11 @@
 Welcome! This is a weather dashboard app built with Next.js and React that helps users track weather info for multiple cities. It connects to the OpenWeatherMap API to show real-time weather details in a simple, responsive interface.
 
 ***
+## **Demo**
+
+[![View Demo](https://img.shields.io/badge/View-Demo-blue)](https://www.youtube.com/watch?v=Ks_8CHJqJqo)
+
+***
 ## **Features**
 ### **Main Features**
 - Current Weather Conditions: Get detailed reports of the current weather, including temperature, weather conditions, and more.
